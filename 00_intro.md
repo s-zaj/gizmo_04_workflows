@@ -18,3 +18,7 @@ A patch should:
 Excerpt from the [Git Contributing guide](https://github.com/git/git/blob/master/Documentation/SubmittingPatches)
 
 
+We should point out that "habitually" (regularly for no real reason)
+merging an integration branch into your topics -- and by extension,
+merging anything upstream into anything downstream on a regular basis
+-- is frowned upon:
